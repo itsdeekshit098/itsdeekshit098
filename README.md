@@ -4,7 +4,7 @@
 
 ### Full Stack Developer
 </div>
-
+![Profile Views](https://komarev.com/ghpvc/?username=itsdeekshit098&color=brightgreen&style=flat-square&label=Profile+Views)
 * 🌍  I'm based in India
 * ✉️  You can contact me at [itsdeekshith098@gmail.com](mailto:itsdeekshith098@gmail.com)
 * 🚀  I'm currently working on [Chat Application](http://github.com/itsdeekshit098/chat-app)
