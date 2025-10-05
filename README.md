@@ -1,8 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is DEEKSHITH REDDY
-========================================================================================================================================
+<div align="center">
 
-Full Stack Developer
---------------------
+# Hi 👋, I'm DEEKSHITH REDDY T
+
+### Full Stack Developer
+</div>
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [itsdeekshith098@gmail.com](mailto:itsdeekshith098@gmail.com)
