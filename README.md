@@ -3,9 +3,8 @@
 # 👋 Hi, I'm DEEKSHITH REDDY T  
 ### 🚀 Full Stack Developer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsdeekshit098&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsdeekshit098&label=Profile%20views&color=0e75b6&style=flat" alt="itsdeekshith" /> </p>
+
 
 </div>
 
@@ -19,6 +18,8 @@
 - 🧠  I'm currently learning **Full Stack Development**  
 - 👥  I'm looking to collaborate on **Spring Boot** and **Next.js** projects  
 
+---
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsdeekshit098&" alt="tsdeekshit098" /></a> </p>
 ---
 
 ## 🌐 Connect with Me
