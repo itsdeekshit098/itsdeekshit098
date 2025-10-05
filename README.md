@@ -147,9 +147,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsdeekshit098&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdeekshit098&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
