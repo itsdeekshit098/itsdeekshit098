@@ -9,11 +9,12 @@
 
 ### 🧑‍💻 About Me
 
-- 🌍  I'm based in **India**  
-- ✉️  Reach me at [itsdeekshith098@gmail.com](mailto:itsdeekshith098@gmail.com)  
+- ✉️  Reach me at [itsdeekshith098@gmail.com](mailto:itsdeekshith098@gmail.com)
+- 👨‍💻 All of my projects are available at: <a href="https://www.deekshithreddy.dev/"> https://www.deekshithreddy.dev </a>
 - 🚀  I'm currently working on [Chat Application](https://github.com/itsdeekshit098/chat-app)  
 - 🧠  I'm currently learning **Full Stack Development**  
 - 👥  I'm looking to collaborate on **Spring Boot** and **Next.js** projects
+- 📄 Know about my experiences: <a href="https://www.deekshithreddy.dev"> https://www.deekshithreddy.dev </a>
 
 ---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsdeekshit098&" alt="tsdeekshit098" /></a> </p>
