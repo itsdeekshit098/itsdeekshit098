@@ -1,35 +1,16 @@
-<div align="center">
+i ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is DEEKSHITH REDDY
+========================================================================================================================================
 
-# Hi 👋, I'm DEEKSHITH REDDY T
+Full Stack Developer
+--------------------
 
-### Full Stack Developer
+* 🌍  I'm based in India
+* ✉️  You can contact me at [itsdeekshith098@gmail.com](mailto:itsdeekshith098@gmail.com)
+* 🚀  I'm currently working on [Chat Application](http://github.com/itsdeekshit098/chat-app)
+* 🧠  I'm currently learning Full Stack Development
+* 👥  I'm looking to collaborate on Spring Boot and Next.js projects
 
-</div>
 
-## 💼 Current Work
-
-<div align="left">
-
-- 🔭 I'm currently working on [**chat application**](https://github.com/itsdeekshit098/chat-app)
-
-</div>
-
-## 💼 Internships
-
-| Company | Position | Duration |
-|---|---|---|
-| MAERSK | Associate Software Developer Inter | 2024-10 - 2025-10 |
-
-### Associate Software Developer Inter at MAERSK
-
-## 📞 Contact & Links
-
-<div align="left">
-
-- 📫 How to reach me **itsdeekshith098@gmail.com**
-- 👨‍💻 All of my projects are available at [https://www.deekshithreddy.dev/](https://www.deekshithreddy.dev/)
-
-</div>
 
 ## 🌐 Connect with Me
 
