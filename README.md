@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm DEEKSHITH REDDY T  
-### 🚀 Full Stack Developer
+### Full Stack Developer
 
 </div>
 
