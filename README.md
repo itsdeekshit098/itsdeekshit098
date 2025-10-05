@@ -14,9 +14,7 @@
 - 🧠  I'm currently learning **Full Stack Development**  
 - 👥  I'm looking to collaborate on **Spring Boot** and **Next.js** projects
 
-<p align="center">
   <img align="right" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="git-sumana" width="300px" />
-</p>
 
 ---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsdeekshit098&" alt="tsdeekshit098" /></a> </p>
