@@ -19,7 +19,7 @@
 
 ## 🌐 Connect with Me
 
-<p align="center">
+<p>
   <a href="https://github.com/itsdeekshit098" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>&nbsp;&nbsp;&nbsp;
@@ -40,7 +40,7 @@
 
 ### 💻 Programming Languages
 
-<p align="center">
+<p>
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" title="Java" />
   </a>
@@ -56,7 +56,7 @@
 
 ### 💻 Frontend Development
 
-<p align="center">
+<p>
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="40" height="40" title="Next.js" />
   </a>
@@ -78,7 +78,7 @@
 
 ### 💻 Backend Development
 
-<p align="center">
+<p>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" width="40" height="40" title="Spring Boot" />
   </a>
@@ -94,7 +94,7 @@
 
 ### 💻 Database
 
-<p align="center">
+<p>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" title="PostgreSQL" />
   </a>
@@ -107,7 +107,7 @@
 
 ### 💻 Data Visualization
 
-<p align="center">
+<p>
   <a href="https://grafana.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" title="Grafana" />
   </a>
@@ -117,7 +117,7 @@
 
 ### 💻 DevOps
 
-<p align="center">
+<p>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" title="Docker" />
   </a>
@@ -136,7 +136,7 @@
 
 ### 💻 Testing
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
 </p>
 
@@ -149,18 +149,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsdeekshit098&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdeekshit098&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 <div align="center">
-
-### 🎯 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
 
 **Thanks for visiting my profile! 😊**
 
