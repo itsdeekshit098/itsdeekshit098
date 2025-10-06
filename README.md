@@ -22,7 +22,7 @@
 ## 🌐 Connect with Me
 
 <p>
-  <a href="https://github.com/itsdeekshit098" target="_blank" rel="noreferrer">
+  <a href="https://github.com/itsdeekshit098" target="_blank" rel="noreferrer" style="margin-right: 100px;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/deekshith-reddy-t-7b5b78294/" target="_blank" rel="noreferrer">
@@ -38,24 +38,86 @@
 
 ---
 
-## 🛠️ Skills & Technologies
-
-### 💻 Programming Languages
-
+## 🛠️ Technical Skills
 <p>
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" title="Java" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" title="TypeScript" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" title="JavaScript" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="40" height="40" title="Next.js" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" title="React" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="40" height="40" title="Vue.js" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" title="TailwindCSS" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="40" height="40" title="Redux" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" width="40" height="40" title="Spring Boot" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" title="RabbitMQ" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" title="Apache Kafka" />
+  </a>
+  &nbsp;&nbsp;
+   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" title="PostgreSQL" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" title="MySQL" />
+     <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" title="Grafana" />
+  </a>
+    &nbsp;&nbsp;
+     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" title="Docker" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="40" height="40" title="Kubernetes" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="40" height="40" title="Digital Ocean" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://portal.azure.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="40" height="40" title="Microsoft Azure" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="40" height="40" title="Cypress" />
+</a>
+
 </p>
 
+<!--
 ---
-
 ### 💻 Frontend Development
 
 <p>
@@ -144,6 +206,9 @@
 
 ---
 
+*/
+
+-->
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
